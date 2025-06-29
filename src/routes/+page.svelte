@@ -9,3 +9,18 @@
 </p>
 
 <Button>Hello</Button>
+
+<button>Click me</button>
+
+<style>
+  h1 {
+    color: red;
+  }
+
+  button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+</style>
